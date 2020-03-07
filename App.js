@@ -1,11 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import axios from 'axios';
-// import ImageButton from './components/ImageButton/ImageButton';
-// import piggyBankImg from './assets/image/piggy-bank.png';
-// import dispenseImg from './assets/image/cash.png';
-// import BtnWrapper from './components/BtnWrapper/BtnWrapper';
-// import NumberBtn from './components/NumberBtn/NumberBtn';
 import Numpad from './components/Numpad/Numpad';
 import Result from './components/Result/Result';
 

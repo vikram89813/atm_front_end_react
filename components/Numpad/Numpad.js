@@ -7,7 +7,7 @@ import SubmitBtn from './SubmitBtn/SubmitBtn';
 
 const numpad = (props) => (
     <div className="Numpad">
-        <h1 className="Numpad">ATM Simulator</h1>
+        <h1 className="Numpad">Welcome To MyBank ATM</h1>
         <input id="input" type="text" value={props.userInput} disabled />
         <div id="pad">
             <NumberBtn number="1" clicked={props.clicked} />
